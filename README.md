@@ -3,7 +3,8 @@
 Features:
 
  1) Story Feature
- 2) Social Scroll
+ 2) Social Scroll![111111111](https://github.com/ADEELAHMAD256/Instagram-UI-Clone-main/assets/73869708/16471def-46e7-4387-81f5-d42f70f479f9)
+
  3) Clean Code
 
 # Setup
